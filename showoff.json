@@ -1,8 +1,9 @@
 {
-  "name": "My Preso",
-  "sections": [
-    {
-      "section": "one"
-    }
-  ]
+    "name": "Zetawar Unsession",
+    "sections": [
+        { "section": "Intro" },
+        { "section": "Status" },
+        { "section": "Tech" },
+        { "section": "Conclusion" }
+    ]
 }
