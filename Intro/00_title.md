@@ -1,2 +1,10 @@
 <!SLIDE center subsection>
-# Zetawar Architecture and AI
+# Zetawar Unsession
+
+~~~SECTION:notes~~~
+Outline:
+- Background
+- Status
+- Technology
+- Writing AI
+~~~ENDSECTION~~~
